@@ -12,10 +12,10 @@ Minha jornada no desenvolvimento web é impulsionada pela curiosidade e pelo des
 
 Sou especializado em construir interfaces de usuário dinâmicas e responsivas, utilizando as seguintes tecnologias:
 
-*   **HTML5:** A espinha dorsal de qualquer aplicação web, garantindo estrutura semântica e acessível.
-*   **CSS3:** Dominando o estilo e a responsividade para criar designs atraentes e adaptáveis a qualquer dispositivo.
-*   **JavaScript:** A linguagem que dá vida à web, permitindo interatividade e funcionalidades complexas.
-*   **React:** (Em estudo aprofundado) Construindo componentes reutilizáveis e interfaces de usuário eficientes.
+*   **HTML5:** (Em estudo aprofundado) A espinha dorsal de qualquer aplicação web, garantindo estrutura semântica e acessível.
+*   **CSS3:** (Em estudo aprofundado) Aos pouvos, sigo aprendendo até estar dominando o estilo e a responsividade para criar designs atraentes e adaptáveis a qualquer dispositivo.
+*   **JavaScript:** (Conceitos básicos) A linguagem que dá vida à web, permitindo interatividade e funcionalidades complexas.
+*   **React:** (Conceitos básicos) Construindo componentes reutilizáveis e interfaces de usuário eficientes.
 *   **Node.js:** (Conceitos básicos) Entendimento de como o JavaScript pode ser usado no back-end.
 *   **MongoDB:** (Conceitos básicos) Noções de bancos de dados NoSQL para persistência de dados.
 *   **AWS:** (Conceitos básicos) Familiaridade com serviços de nuvem para deploy e escalabilidade.
@@ -46,7 +46,7 @@ Cada projeto no meu portfólio é uma demonstração prática das minhas habilid
 
 ## 🌟 Minha Jornada e Propósito
 
-Minha formação em Análise e Desenvolvimento de Sistemas e o programa "Desenvolvimento Web Completo" da Udemy me proporcionaram uma base sólida e prática. Sou movido pela curiosidade de entender como as coisas funcionam e pela paixão de transformar essa compreensão em soluções que geram impacto positivo.
+Minha formação em Análise e Desenvolvimento de Sistemas e o programa e para aprimorar mais ainda, estou cursando "Desenvolvimento Web Completo" da Udemy para me proporcionar uma base sólida e prática. Sou movido pela curiosidade de entender como as coisas funcionam e pela paixão de transformar essa compreensão em soluções que geram impacto positivo.
 
 Busco uma oportunidade onde possa aplicar minhas habilidades em Front-End, aprender com profissionais experientes e crescer em um ambiente desafiador e inovador. Estou pronto para contribuir com minha dedicação, proatividade e sede por conhecimento.
 
